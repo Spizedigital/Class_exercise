@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../New_Training"
+		},
+		{
+			"path": "../Webdev Training"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New_Training"
+	}
+}
